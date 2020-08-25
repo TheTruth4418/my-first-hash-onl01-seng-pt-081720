@@ -1,6 +1,9 @@
 def my_hash
 
-hashBrown = {"name" => "Will", "game" => "MK11"}
+hashBrown = {
+  "name" => "Will", 
+  "game" => "MK11"
+}
 
 end
 
