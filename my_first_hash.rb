@@ -1,7 +1,7 @@
 def my_hash
 
 hashBrown = {
-  "name" => "Will", 
+  "name" => "Will",
   "game" => "MK11"
 }
 
